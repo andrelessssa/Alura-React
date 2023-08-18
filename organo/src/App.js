@@ -1,19 +1,15 @@
-import logo from './logo.svg';
 
-import Banner from './componentes/Banner/Banner';
-import Formulario from './conponentes/Formulario';
 
+import Banner from './componetes/Banner/Banner';
 
 function App() {
   return (
     <div className="App">
-      <Banner/>
-      <Formulario/>
       
-  
+      <Banner/>
+     
     </div>
-  
   );
 }
 
-export default App
+export default App;
