@@ -5,10 +5,7 @@ import AddTask from "./components/AddTask";
 
 
 import "./App.css";
-
-
 //arrow
-
 const App = () => {
   const [tasks, setTasks] = useState( [
 
